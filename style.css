@@ -1,0 +1,15 @@
+.wrapper {
+}
+.task {
+   display: flex;
+   justify-content: center;
+}
+.task__container {
+   border: 1px solid black;
+   padding: 30px;
+}
+.task__todo {
+   color: blueviolet;
+   font-size: 35px;
+   margin: 20px;
+}
